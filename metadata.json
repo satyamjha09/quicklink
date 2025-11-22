@@ -1,0 +1,5 @@
+{
+  "name": "Quleep 3D Viewer",
+  "description": "A full-stack capable 3D product viewer with Gemini AI integration for automated styling assistance. Features GLB/GLTF upload, custom controls, and simulated backend persistence.",
+  "requestFramePermissions": []
+}
